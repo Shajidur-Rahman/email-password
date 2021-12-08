@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714336656532",
+    "project_id": "emalpass",
+    "storage_bucket": "emalpass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714336656532:android:f8114bef53cb7e3dd9a881",
+        "android_client_info": {
+          "package_name": "com.example.emalpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714336656532-culhvfnu1f2ebp93u5v3kukm4m4t2okd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7wq7pmy4Go1TaaJiA7HP-gqg5bhA5ns4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714336656532-culhvfnu1f2ebp93u5v3kukm4m4t2okd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
